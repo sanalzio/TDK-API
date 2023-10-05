@@ -1,6 +1,8 @@
 # Benim TDK API'ım
 Benim yazdığım basit bir [TDK](https://sozluk.gov.tr/) api.
 
+![logo](image.svg)
+
 # Kurulumu
 Sadece tdk.py dosyasını indirin ve ana kodunuzun bulunduğu klasöre atın.
 
